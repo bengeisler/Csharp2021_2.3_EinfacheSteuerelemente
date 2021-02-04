@@ -1,0 +1,9 @@
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\bin\Debug\EinfacheSteuerelemente.exe.config
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\bin\Debug\EinfacheSteuerelemente.exe
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\bin\Debug\EinfacheSteuerelemente.pdb
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\obj\Debug\EinfacheSteuerelemente.Form1.resources
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\obj\Debug\EinfacheSteuerelemente.Properties.Resources.resources
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\obj\Debug\EinfacheSteuerelemente.csproj.GenerateResource.cache
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\obj\Debug\EinfacheSteuerelemente.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\obj\Debug\EinfacheSteuerelemente.exe
+C:\Users\b\source\repos\EinfacheSteuerelemente\EinfacheSteuerelemente\obj\Debug\EinfacheSteuerelemente.pdb
